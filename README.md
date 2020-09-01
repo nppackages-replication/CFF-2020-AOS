@@ -10,8 +10,8 @@ https://nppackages.github.io/replication
 
 ## Reference
 
-- Cattaneo, Farrell and Feng (2020): [Large Sample Properties of Partitioning-Based Series Estimators](https://rdpackages.github.io/references/Cattaneo-Farrell-Feng_2020_AoS.pdf).<br>
+- Cattaneo, Farrell and Feng (2020): [Large Sample Properties of Partitioning-Based Series Estimators](https://nppackages.github.io/references/Cattaneo-Farrell-Feng_2020_AoS.pdf).<br>
 _Annals of Statistics_ 48(3): 1718-1741.<br>
-[Supplemental Appendix](https://rdpackages.github.io/references/Cattaneo-Farrell-Feng_2020_AoS--Supplemental.pdf).
+[Supplemental Appendix](https://nppackages.github.io/references/Cattaneo-Farrell-Feng_2020_AoS--Supplemental.pdf).
 
 <br><br>
